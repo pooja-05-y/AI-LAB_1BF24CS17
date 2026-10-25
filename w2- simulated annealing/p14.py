@@ -1,4 +1,3 @@
-
 # Simulated Annealing Algorithm
 
 import math
