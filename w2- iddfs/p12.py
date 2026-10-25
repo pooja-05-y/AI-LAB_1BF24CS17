@@ -1,4 +1,3 @@
-
 # Iterative Deepening Search (IDS)
 
 def depth_limited_search(graph, node, goal, depth, path):
